@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Sample Text_es
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: c583eef69d76a4f1095addcf3a2d58ab, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 207143034880
+    m_Localized: El Viento del Norte y el Sol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259131432960
+    m_Localized: "Espa\xF1ol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321131634688
+    m_Localized: "El Viento del Norte y el Sol discut\xEDan sobre cu\xE1l de los dos era m\xE1s fuerte. En ese momento vieron acercarse por el camino a un viajero envuelto en una capa. Acordaron que quien lograra que el viajero se quitara la capa ser\xEDa considerado el m\xE1s fuerte. El Viento del Norte comenz\xF3 a soplar con todas sus fuerzas. Pero cuanto m\xE1s fuerte soplaba, m\xE1s se apretaba el viajero la capa contra el cuerpo. Al final, el Viento del Norte se dio por vencido. Entonces el Sol comenz\xF3 a brillar suavemente y a calentar al viajero, que se quit\xF3 la capa de inmediato. As\xED, el Viento del Norte tuvo que admitir que el Sol era m\xE1s fuerte que \xE9l."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161349987459072
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161350021013504
+    m_Localized: Cerrar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161350021013505
+    m_Localized: "Escribe varias l\xEDneas..."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

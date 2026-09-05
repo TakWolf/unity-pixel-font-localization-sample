@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Sample Text_pl
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: c583eef69d76a4f1095addcf3a2d58ab, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 207143034880
+    m_Localized: "P\xF3\u0142nocny Wiatr i S\u0142o\u0144ce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259131432960
+    m_Localized: Polski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321131634688
+    m_Localized: "P\xF3\u0142nocny Wiatr i S\u0142o\u0144ce spierali si\u0119, kt\xF3re z nich jest silniejsze. Wtedy zobaczyli id\u0105cego drog\u0105 w\u0119drowca otulonego p\u0142aszczem. Um\xF3wili si\u0119, \u017Ce silniejsze oka\u017Ce si\u0119 to z nich, kt\xF3remu uda si\u0119 sk\u0142oni\u0107 w\u0119drowca do zdj\u0119cia p\u0142aszcza. Najpierw P\xF3\u0142nocny Wiatr zacz\u0105\u0142 wia\u0107 z ca\u0142ych si\u0142. Jednak im mocniej wia\u0142, tym szczelniej w\u0119drowiec otula\u0142 si\u0119 p\u0142aszczem. W ko\u0144cu P\xF3\u0142nocny Wiatr musia\u0142 si\u0119 podda\u0107. Nast\u0119pnie S\u0142o\u0144ce zacz\u0119\u0142o ciep\u0142o ogrzewa\u0107 w\u0119drowca, a ten natychmiast zdj\u0105\u0142 p\u0142aszcz. Wtedy P\xF3\u0142nocny Wiatr musia\u0142 przyzna\u0107, \u017Ce S\u0142o\u0144ce jest od niego silniejsze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161349987459072
+    m_Localized: "J\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161350021013504
+    m_Localized: Zamknij
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161350021013505
+    m_Localized: Wpisz wiele wierszy...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

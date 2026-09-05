@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Sample Text_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c583eef69d76a4f1095addcf3a2d58ab, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 207143034880
+    m_Localized: The North Wind and the Sun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259131432960
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321131634688
+    m_Localized: The North Wind and the Sun were arguing about which of them was stronger. Just then, they saw a traveler coming along the road, wrapped in a cloak. They agreed that whoever could make the traveler take off his cloak would be considered the stronger. The North Wind began to blow with all his might. But the harder he blew, the more tightly the traveler wrapped his cloak around himself. At last, the North Wind gave up. Then the Sun shone warmly on the traveler, who immediately took off his cloak. So the North Wind had to admit that the Sun was stronger than he was.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161349987459072
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161350021013504
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161350021013505
+    m_Localized: Type multiple lines...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Sample Text_pt-BR
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: c583eef69d76a4f1095addcf3a2d58ab, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 207143034880
+    m_Localized: O Vento Norte e o Sol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259131432960
+    m_Localized: "Portugu\xEAs (Brasil)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321131634688
+    m_Localized: "O Vento Norte e o Sol discutiam qual dos dois era mais forte. Nesse momento, viram um viajante envolto em uma capa passar pela estrada. Combinaram que quem conseguisse fazer o viajante tirar a capa seria considerado o mais forte. O Vento Norte come\xE7ou a soprar com toda a sua for\xE7a. Mas, quanto mais forte soprava, mais o viajante apertava a capa contra o corpo. Por fim, o Vento Norte desistiu. Ent\xE3o o Sol come\xE7ou a brilhar suavemente e a aquecer o viajante, que logo tirou a capa. Assim, o Vento Norte teve que admitir que o Sol era mais forte do que ele."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161349987459072
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161350021013504
+    m_Localized: Fechar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161350021013505
+    m_Localized: "Digite v\xE1rias linhas..."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

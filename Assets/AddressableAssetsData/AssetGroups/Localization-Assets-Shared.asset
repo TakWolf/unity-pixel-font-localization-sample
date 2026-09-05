@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 6d958eff554bf420cbc68817249218f3
+  m_SerializeEntries:
+  - m_GUID: 49fc48cbe0a4f47a19039a3a027c71c8
+    m_Address: Pixel-12-Latin
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de
+    - Locale-el
+    - Locale-en
+    - Locale-es
+    - Locale-fr
+    - Locale-it
+    - Locale-pl
+    - Locale-pt-BR
+    - Locale-ru
+    - Locale-tr
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60f7dcc900f6d455bb11e25bb7f53e17
+    m_Address: Assets/PixelFontLocalization/Localization/Tables/Fonts Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c583eef69d76a4f1095addcf3a2d58ab
+    m_Address: Assets/PixelFontLocalization/Localization/Tables/Sample Text Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 53948db357f914ed8992e230e4acbb48, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e2eb62b3b80e447ed8bb115802d163a0, type: 2}
+    - {fileID: 11400000, guid: 9c5978197bc7e4f7f8f0c5af7f1d80d9, type: 2}

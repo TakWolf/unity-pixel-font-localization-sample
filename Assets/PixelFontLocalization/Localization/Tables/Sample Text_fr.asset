@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Sample Text_fr
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: c583eef69d76a4f1095addcf3a2d58ab, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 207143034880
+    m_Localized: Le Vent du Nord et le Soleil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259131432960
+    m_Localized: "Fran\xE7ais"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321131634688
+    m_Localized: "Le Vent du Nord et le Soleil se disputaient pour savoir lequel des deux \xE9tait le plus fort. \xC0 ce moment-l\xE0, ils virent passer sur le chemin un voyageur envelopp\xE9 dans un manteau. Ils convinrent que celui qui parviendrait \xE0 faire \xF4ter son manteau au voyageur serait consid\xE9r\xE9 comme le plus fort. Le Vent du Nord se mit \xE0 souffler de toutes ses forces. Mais plus il soufflait fort, plus le voyageur resserrait son manteau autour de lui. Finalement, le Vent du Nord abandonna. Puis le Soleil se mit \xE0 briller sur le voyageur en diffusant une douce chaleur, et celui-ci \xF4ta aussit\xF4t son manteau. Le Vent du Nord dut alors reconna\xEEtre que le Soleil \xE9tait plus fort que lui."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161349987459072
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161350021013504
+    m_Localized: Fermer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161350021013505
+    m_Localized: Saisissez plusieurs lignes...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
