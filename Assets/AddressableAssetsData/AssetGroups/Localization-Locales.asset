@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Locales
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Locales
+  m_GUID: 38e4e961f500f4edaa798e106a8fc10f
+  m_SerializeEntries:
+  - m_GUID: 09ff254f5c9704c03ae8efb3a2442e7a
+    m_Address: "\uD55C\uAD6D\uC5B4"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ee8f72d628f54637bed90dff5f068e0
+    m_Address: "T\xFCrk\xE7e"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ffc4a7cf37334f0ba3a48d3a6068fcd
+    m_Address: Deutsch
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43a68630000b24067aa3fec9e77089c1
+    m_Address: "Portugu\xEAs (Brasil)"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d4435f4d55854c19b24682f22dffcee
+    m_Address: "\u0420\u0443\u0441\u0441\u043A\u0438\u0439"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c92f425b723e4b76976216f816ad20b
+    m_Address: Polski
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e2906d888ea24a9695d9e2b41f10a7a
+    m_Address: "\u7B80\u4F53\u4E2D\u6587"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74b25060cb3a742eabafca51dbe72f9a
+    m_Address: English
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dac1b56c98354cacbbf44012c605b16
+    m_Address: "Fran\xE7ais"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 848a12d889cdc48878bf60df98b7da92
+    m_Address: "\u7E41\u9AD4\u4E2D\u6587"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b50275940603c43718b08a5e2d5453e7
+    m_Address: "Espa\xF1ol"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d02866fd49e784747ba43c25585716c4
+    m_Address: "\u65E5\u672C\u8A9E"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2ec2b6ab6ad34d5fb0eb793b92217a4
+    m_Address: Italiano
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb4e9cb4af5be4a2fbe338bf1792edc3
+    m_Address: "\u0395\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AC"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: c1d8aea25f76f4a7a8577e4131431a92, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 85758359e73c240c8998e41e1995c3be, type: 2}
+    - {fileID: 11400000, guid: c62af3264154a49209c195606ef4b273, type: 2}
+    - {fileID: 11400000, guid: 575095e8e932143a7adceb8bc939c622, type: 2}
