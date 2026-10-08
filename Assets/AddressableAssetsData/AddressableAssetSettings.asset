@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: dc6a2c090117f4481bca0fab7c8cf26b
   m_currentHash:
     serializedVersion: 2
-    Hash: a07ed7fd7e06233df74776b33cbe2320
+    Hash: 00000000000000000000000000000000
   m_ExtractTypeTreeData: 0
   m_DisableWriteTypeTree: 0
   m_OptimizeCatalogSize: 0
@@ -66,6 +66,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 0dac381fb693e4cfeba79ac50f876f62, type: 2}
   - {fileID: 11400000, guid: 9e9428227bfed48eba1ea7684c51567a, type: 2}
   - {fileID: 11400000, guid: 380d6acf47dba45978742106a312fc30, type: 2}
+  - {fileID: 11400000, guid: 966d34487ee56480ebed8783572b3f83, type: 2}
+  - {fileID: 11400000, guid: 6e921db3732c64ca0875896cbdd2cf5b, type: 2}
   - {fileID: 11400000, guid: a4aea14ab7de949b68ef45a9e7cbf783, type: 2}
   - {fileID: 11400000, guid: 78d959dc944084927b9f5d274b544205, type: 2}
   - {fileID: 11400000, guid: 19a8458d2ae124d8683209015f8d5fcc, type: 2}
@@ -76,15 +78,26 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 17ec1026616c8460286c180ff41ae03c, type: 2}
   - {fileID: 11400000, guid: cd9b20227d12347378292b99e7e5df05, type: 2}
   - {fileID: 11400000, guid: 416eb56189964427faf469c27f1f0835, type: 2}
+  - {fileID: 11400000, guid: 24186ab3b80e34ca1a1855d2fe65e21a, type: 2}
+  - {fileID: 11400000, guid: 03ec5c1ae9c8e4c4784bdd3bb8afdfe4, type: 2}
+  - {fileID: 11400000, guid: 9a89702ed735b4845972f606eb727fe3, type: 2}
   - {fileID: 11400000, guid: 2c8fdda68148940078ad8b417fae765d, type: 2}
   - {fileID: 11400000, guid: 315f0f96c3b9148d0aa62277aee8ca08, type: 2}
   - {fileID: 11400000, guid: 64acc27696e254a89b0667b7949395f3, type: 2}
   - {fileID: 11400000, guid: f4d2868e8d0b0428a861b6707b8136d5, type: 2}
   - {fileID: 11400000, guid: f1728b4dc1133450ba4e37d0b67c311d, type: 2}
+  - {fileID: 11400000, guid: 567c79f9a890d4b47b7e273ed34eb54c, type: 2}
+  - {fileID: 11400000, guid: db16e8590908c4552bfe71a200f8bb25, type: 2}
   - {fileID: 11400000, guid: 46081d59e0e64412eb34c673aa01f038, type: 2}
+  - {fileID: 11400000, guid: d3bcdd6f666cf461eb5d1f852b1bfdd0, type: 2}
+  - {fileID: 11400000, guid: 7ad549b3f669941c8b58bce55e1aebc9, type: 2}
+  - {fileID: 11400000, guid: 776bb100d3bfa4d2a8f5d450d9e33f5e, type: 2}
   - {fileID: 11400000, guid: 7a1ff6abdae5e44f68ada6bca9a9dc93, type: 2}
   - {fileID: 11400000, guid: 4bf3232a899ec4375bd65b6a7226c1b1, type: 2}
   - {fileID: 11400000, guid: 439755ca1c6d3471d848ec8aed11f4fc, type: 2}
+  - {fileID: 11400000, guid: ba2b2d78115d9429aa90bf7d3d1269dd, type: 2}
+  - {fileID: 11400000, guid: 6cbb324bd58e840feaed115ac23bea10, type: 2}
+  - {fileID: 11400000, guid: d33cd3947989542d797081f3d304a3ba, type: 2}
   m_BuildSettings:
     m_LogResourceManagerExceptions: 1
     m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
@@ -139,6 +152,7 @@ MonoBehaviour:
     - Locale-zh-Hant
     - Locale-ja
     - Locale-ko
+    - Preload
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: dcc3712fa9dd84240a3ce66960d2c967, type: 2}
