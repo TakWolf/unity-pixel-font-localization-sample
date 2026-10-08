@@ -20,6 +20,16 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c13ef5f20e4842a4b4d9f04a480d4f1
+    m_Address: Assets/PixelFontLocalization/Localization/Tables/UI Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7bcafe6dd4cc463a9dacf04b878272c
+    m_Address: Assets/PixelFontLocalization/Localization/Tables/Sample Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cdd43defa83194187865f1ce355b4b28
     m_Address: Pixel-12px-Latin
     m_ReadOnly: 1
